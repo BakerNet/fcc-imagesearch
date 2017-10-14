@@ -1,0 +1,4 @@
+{
+  "bingApiKey": "<api-key>",
+  "mongoURI": "mongodb://<mongo URI>"
+}
